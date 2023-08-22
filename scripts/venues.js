@@ -16,10 +16,10 @@ document.addEventListener(
                 if (booking.venueName === clickedItem.dataset.name) {
                     bandsArray.push(booking.bandName)
                     bandCounter++
-                    // 
                 }
             }
-             if (bandCounter === 0) {
+            
+            if (bandCounter === 0) {
                 window.alert(`There are no bands booked to the venue`)
              }
             if (bandCounter === 1) {
