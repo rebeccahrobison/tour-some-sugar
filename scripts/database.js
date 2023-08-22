@@ -54,43 +54,43 @@ const database = {
     bookings: [{
         bandName: "Trouble with Tribbles",
         venueName: "Yellow Submarine",
-        bookingDate: "8/25/2023"
+        date: "8/25/2023"
     }, {    
         bandName: "Monkey House",
         venueName: "Thunderdome",
-        bookingDate: "8/25/2023"
+        date: "8/25/2023"
     }, {
         bandName: "Bananas in Pajamas",
         venueName: "The Outhouse",
-        bookingDate: "8/25/2023"
+        date: "8/25/2023"
     }, {
         bandName: "Scheherazade",
         venueName: "The Hobbit Hole",
-        bookingDate: "8/25/2023"     
+        date: "8/25/2023"     
     }, {
         bandName: "Scheherazade",
         venueName: "The Outhouse",
-        bookingDate: "8/25/2023"        
+        date: "8/25/2023"        
     }, {
         bandName: "Monkey House",
         venueName: "Yellow Submarine",
-        bookingDate: "8/25/2023"        
+        date: "8/26/2023"        
     }, {
         bandName: "Trouble with Tribbles",
         venueName: "The Outhouse",
-        bookingDate: "8/25/2023"        
+        date: "8/26/2023"        
     }, {
         bandName: "Sherlock",
         venueName: "The Hobbit Hole",
-        bookingDate: "8/25/2023"        
+        date: "8/27/2023"        
     }, {
         bandName: "Scheherazade",
         venueName: "Yellow Submarine",
-        bookingDate: "8/25/2023"       
+        date: "8/27/2023"       
     }, {
         bandName: "Sequence Diagram",
         venueName: "Thunderdome",
-        bookingDate: "8/25/2023"     
+        date: "8/27/2023"     
     }]
 }
 
