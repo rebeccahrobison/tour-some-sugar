@@ -1,0 +1,41 @@
+/* * {
+    border: red solid 1px;
+} */
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(58, 56, 56);
+    color: rgb(249, 233, 250);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(149, 202, 202);
+    color: rgb(14, 10, 13);
+    padding: 30px;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.available {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.available-venues, .available-bands {
+    background-color: rgb(230, 111, 224);
+    border:rgb(58, 56, 56) dashed 2px;
+    border-radius: 10px;
+    padding: 20px;
+}
